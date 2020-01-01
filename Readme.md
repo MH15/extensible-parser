@@ -22,7 +22,7 @@ while(parser.hasNext()) {
 ```
 
 ## Documentation
-See the example above or the [wiki](https://github.com/MH15/extensible-parser).
+See the example above or the auto-generated [docs](https://github.com/MH15/extensible-parser/docs/classes/_parser_.parser.md).
 
 
 
