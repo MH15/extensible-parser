@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/MH15/extensible-parser/issues"
   },
-  "homepage": "https://github.com/MH15/extensible-parser#readme"
+  "homepage": "https://github.com/MH15/extensible-parser#readme",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^5.0.3",
+    "typedoc": "^0.15.6",
+    "typedoc-plugin-markdown": "^2.2.14"
+  }
 }

@@ -6,6 +6,10 @@ class Parser {
     index: number
     line: number
     col: number
+    /**
+     * 
+     * @param content the string content
+     */
     constructor(content: string) {
         this.input = content
         this.index = 0
@@ -21,12 +25,18 @@ class Parser {
         return `error on line ${this.line}: "${errorString}"`
     }
 
-    // Return the next character without advancing.
+    /**
+     * Return the next character without advancing.
+     * @returns the next character
+     */
     peek(): string {
         return this.input.charAt(this.index)
     }
 
-    // Return the next character and advance.
+    /**
+     * Consume the next character in `this.input`
+     * @returns the next character
+     */
     consume(): string {
         if (this.hasNext()) {
             let res = this.peek()
