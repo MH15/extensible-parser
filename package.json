@@ -1,6 +1,6 @@
 {
   "name": "extensible-parser",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "extensible string parsing class",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/MH15/extensible-parser#readme",
   "devDependencies": {
-    "jsdoc-to-markdown": "^5.0.3",
     "typedoc": "^0.15.6",
     "typedoc-plugin-markdown": "^2.2.14"
   }
