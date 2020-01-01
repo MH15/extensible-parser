@@ -4,12 +4,12 @@
 
 ## Install
 ```bash
-npm install string-parser
+npm install stringparser
 ```
 
 ## Usage
 ```javascript
-import {Parser} from "string-parser"
+import {Parser} from "StringParser"
 let stringData = "some stuff"
 const parser = new Parser(stringData)
 
@@ -32,9 +32,9 @@ directly in the [HTMLParser](https://github.com/MH15/html-parser) library.
 
 Contributions are welcome! However- this library is designed to provide
 the most primitive functionality needed for a complete string library. Most new
-features should be delegated to a separate library that extends the `Parser`
+features should be delegated to a separate library that extends the `StringParser`
 class.
 
-## Projects using String Parser
-These libraries directly extend the `Parser` class:
+## Projects using StringParser
+These libraries directly extend the `StringParser` class:
 - HTMLParser

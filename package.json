@@ -1,5 +1,5 @@
 {
-  "name": "string-parser",
+  "name": "stringparser",
   "version": "1.0.0",
   "description": "extensible string parsing class",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MH15/string-parser.git"
+    "url": "git+https://github.com/MH15/stringparser.git"
   },
   "keywords": [
     "parse",
@@ -19,7 +19,7 @@
   "author": "https://github.com/MH15/",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MH15/string-parser/issues"
+    "url": "https://github.com/MH15/stringparser/issues"
   },
-  "homepage": "https://github.com/MH15/string-parser#readme"
+  "homepage": "https://github.com/MH15/stringparser#readme"
 }
