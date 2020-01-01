@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MH15/stringparser.git"
+    "url": "git+https://github.com/MH15/extensible-parser.git"
   },
   "keywords": [
     "parse",
     "parser",
     "string",
-    "parsing"
+    "parsing",
+    "extensible"
   ],
   "author": "https://github.com/MH15/",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MH15/stringparser/issues"
+    "url": "https://github.com/MH15/extensible-parser/issues"
   },
-  "homepage": "https://github.com/MH15/stringparser#readme"
+  "homepage": "https://github.com/MH15/extensible-parser#readme"
 }
