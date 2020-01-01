@@ -1,5 +1,5 @@
 {
-  "name": "stringparser",
+  "name": "extensible-parser",
   "version": "1.0.0",
   "description": "extensible string parsing class",
   "main": "index.js",
